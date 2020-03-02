@@ -1,4 +1,10 @@
-#intellij files
-*.iml
+
+# eclipse
+.classpath
+.project
+
+# intellij
 .idea
+*iml
 out
+
